@@ -1,0 +1,27 @@
+_repo: Our-Navy-in-the-War_18676
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perry, Lawrence
+    birthdate: 1875
+    deathdate: 1954
+    gutenberg_agent_id: '6903'
+    url: http://www.gutenberg.org/2009/agents/6903
+description: ''
+gutenberg_issued: '2006-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+- !lcsh 'United States. Navy'
+- !lcc 'D501'
+title: Our Navy in the War
+url: http://www.gutenberg.org/ebooks/18676
